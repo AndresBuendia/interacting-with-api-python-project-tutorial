@@ -66,4 +66,4 @@ Since the result obtained in these steps is likely to be in table format, conver
 
 ### Step 7: Analyze statistical relationship
 
-Does duration have a relationship with popularity? Could we say that a song that lasts a short time may be more popular than a song that lasts longer? Analyze it by plotting a `scatter plot` and argue your answer.
+            Does duration have a relationship with popularity? Could we say that a song that lasts a short time may be more popular than a song that lasts longer? Analyze it by plotting a `scatter plot` and argue your answer.
